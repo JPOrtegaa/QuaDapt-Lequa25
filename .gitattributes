@@ -1,0 +1,2 @@
+artificial_experiment/results/lequa2025_results_datasets.csv filter=lfs diff=lfs merge=lfs -text
+artificial_experiment/results/results_syn.csv filter=lfs diff=lfs merge=lfs -text
